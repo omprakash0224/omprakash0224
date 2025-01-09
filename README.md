@@ -34,6 +34,10 @@
 - Description: Created a simple weather application that fetches real-time weather information for any location using the [OpenWeatherMap API](https://openweathermap.org/). 
 - Technology Stack: HTML, CSS, Javascript
 
+## CGPA Calculator
+- Description: Created a simple cgpa calculator to calculate cgpa without any login and hassle.
+- Technology Stack: HTML, CSS, Javascript
+- (https://omprakash0224.github.io/CGPA-Calculator/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omprakash0224&show_icons=true&locale=en&layout=compact" alt="omprakash0224" /></p>
 
