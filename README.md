@@ -30,14 +30,19 @@
 - Description: Developed a web application that allows users to manage and track attendance for various subjects. The application supports features such as user authentication, timetable management, and subject-specific attendance tracking.
 - Technology Stack: Reactjs, Node.js, Express.js, Tailwind CSS, MongoDB, JSON Web Token (JWT)
 
-## Weather application
-- Description: Created a simple weather application that fetches real-time weather information for any location using the [OpenWeatherMap API](https://openweathermap.org/). 
-- Technology Stack: HTML, CSS, Javascript
+## 3D Portfolio website
+- Description: Created a 3D portfolio website to showcase personal portfolio in a 3D interactive way. 
+- Technology Stack: Reactjs, Threejs, Framer-motion
+- (https://omprakash-dev-portfolio.vercel.app/)
 
 ## CGPA Calculator
-- Description: Created a simple cgpa calculator to calculate cgpa without any login and hassle.
+- Description: Created a simple CGPA calculator to calculate CGPA without any login and hassle.
 - Technology Stack: HTML, CSS, Javascript
 - (https://omprakash0224.github.io/CGPA-Calculator/)
+
+## MinifyURL
+- Description: Developed a URL shortener to help shorten your long URL easily.
+- Technology Stack: Nextjs, MongoDB
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omprakash0224&show_icons=true&locale=en&layout=compact" alt="omprakash0224" /></p>
 
