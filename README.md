@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omprakash0224&label=Profile%20views&color=0e75b6&style=flat" alt="omprakash0224" /> </p>
 
-- 🔭 I’m currently working on **AI Finance Platform**
+- 🔭 I’m currently working on **AI Job Assistant**
 
 - 🌱 I’m currently learning **NextJS and MySQL**
 
