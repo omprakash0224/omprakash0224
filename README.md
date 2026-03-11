@@ -2,11 +2,11 @@
 
 # Hi 👋, I'm Om Prakash
 
-### Full-Stack Developer | MERN • Next.js • AI Applications
+### AI Full-Stack Developer | MERN • Next.js • AI Applications
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=omprakash0224&label=Profile views&color=0e75b6&style=flat" alt="omprakash0224" /> </p> -->
 
-- 🔭 I'm currently working on **AI Job Assistant**
+- 🔭 I'm currently working on **RAG System**
 
 - 🌱 I'm currently learning **AI Agents and LLMs**
 
