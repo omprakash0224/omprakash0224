@@ -1,37 +1,113 @@
 [![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](https://omprakashsamal.com)
 
-# Hi 👋, I'm Om Prakash
+<h1 align="center">Hi, I'm Om Prakash</h1>
 
-### AI Full-Stack Developer | MERN • Next.js • AI Applications
+<h3 align="center">AI Full-Stack Developer | FastAPI · Next.js · RAG · Multi-Agent Systems</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=omprakash0224&label=Profile views&color=0e75b6&style=flat" alt="omprakash0224" /> </p> -->
-
-- 🔭 I'm currently working on **RAG System**
-
-- 🌱 I'm currently learning **AI Agents and LLMs**
-
-- 👯 I'm looking to collaborate on **open source projects**
-
-- 💬 Ask me about **MERN Stack, REST APIs, AI-integrated web apps**
-
-- 📫 How to reach me **omprakashsamal75@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://omprakash-tau.vercel.app/](https://omprakash-tau.vercel.app/)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/omprakash0224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="omprakash0224" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/iamomprakashsamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamomprakashsamal" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://my-portfolio-dun-one-29.vercel.app/">Portfolio</a> &nbsp;|&nbsp;
+  <a href="mailto:omprakashsamal75@gmail.com">Email</a> &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/iamomprakashsamal">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/omprakash0224">GitHub</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gtk" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gtk" alt="gtk" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/materialize" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/webpack" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40"/> </a></p>
+---
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omprakash0224&show_icons=true&locale=en&layout=compact" alt="omprakash0224" /></p>
+### About
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omprakash0224&show_icons=true&locale=en" alt="omprakash0224" /></p> -->
+Computer Science undergraduate with hands-on experience building production-grade full-stack, AI/ML, and backend systems. Proficient in Python, TypeScript, FastAPI, Next.js, and the GenAI ecosystem including RAG pipelines, multi-agent orchestration, and LLM integration. Seeking an internship or entry-level role in AI/ML Engineering, Backend, or Full-Stack Development.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omprakash0224&" alt="omprakash0224" /></p>
+- Currently building a **production RAG system** with hybrid dense + BM25 retrieval and RRF fusion
+- Working with **Multi-Agent Orchestration** using CrewAI, LangChain, and hierarchical agent pipelines
+- Focus areas: GenAI pipelines, FastAPI backends, Next.js full-stack applications
+- Based in **Gurugram, Haryana**
+
+---
+
+### Tech Stack
+
+**AI / ML & GenAI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-Multi--Model-orange?style=for-the-badge&logo=artificialintelligence&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-6B46C1?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge)
+
+**Languages**
+
+![Python](https://skillicons.dev/icons?i=py)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+
+**Backend**
+
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Flask](https://skillicons.dev/icons?i=flask)
+
+**Frontend**
+
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![React](https://skillicons.dev/icons?i=react)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+![Redux](https://skillicons.dev/icons?i=redux)
+
+**Databases & Storage**
+
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Redis](https://skillicons.dev/icons?i=redis)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+**DevOps & Tools**
+
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Figma](https://skillicons.dev/icons?i=figma)
+
+---
+
+### Featured Projects
+
+| Project | Tech | Description |
+|---|---|---|
+| [**PaperMind**](https://github.com/omprakash0224) | FastAPI · LangChain · Qdrant · Gemini · Next.js 15 | Production RAG platform with hybrid BM25 + dense retrieval, RRF fusion, multi-tenant isolation, and async PDF ingestion |
+| [**CerviCare**](https://github.com/omprakash0224) | FastAPI · scikit-learn · XGBoost · LightGBM · SHAP | 13-model ML study for cervical cancer risk prediction; SMOTE + soft-voting ensemble + SHAP explainability |
+| [**CreatextAI**](https://github.com/omprakash0224) | Next.js 15 · Gemini · Clerk · Neon · Razorpay · Docker | AI SaaS platform with 23+ content templates, 2-tier credit system, subscription billing, and Drizzle ORM |
+| [**Backend Ledger**](https://github.com/omprakash0224) | Node.js · Express · MongoDB · JWT · Swagger | Double-entry ledger API with ACID transactions, fraud detection middleware, and sub-200ms response times |
+| [**Multi-Agent Finance AI**](https://github.com/omprakash0224) | CrewAI · LangChain · Gemini · SerperDevTool | 4-agent hierarchical pipeline for financial analysis covering research, market, risk, and report generation |
+| [**JobTailor**](https://github.com/omprakash0224) | Flask · SQLAlchemy · Gemini · PostgreSQL | AI-powered job application assistant for resume tailoring, cover letter generation, and interview preparation |
+
+---
+
+### GitHub Stats
+
+<p align="center" >
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=omprakash0224&" alt="omprakash0224" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omprakash0224&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+### Highlights
+
+- **25+ public repositories** spanning full-stack, AI/ML, and backend engineering with live deployments on Vercel and Render
+- **250+ LeetCode problems** solved across arrays, dynamic programming, and graph algorithms
+- **6 production-grade projects** delivered including a RAG platform, ML clinical decision tool, financial ledger API, and AI SaaS platform
+
+---
+
+<p align="center">
+  <i>Open to internships and entry-level roles in AI/ML Engineering, Backend, or Full-Stack Development</i>
+</p>
 
 
 
