@@ -76,7 +76,7 @@ Computer Science undergraduate with hands-on experience building production-grad
 
 | Project | Tech | Description |
 |---|---|---|
-| [**PaperMind**](https://github.com/omprakash0224) | FastAPI · LangChain · Qdrant · Gemini · Next.js 15 | Production RAG platform with hybrid BM25 + dense retrieval, RRF fusion, multi-tenant isolation, and async PDF ingestion |
+| [**PaperMind**](https://github.com/omprakash0224/PaperMind) | FastAPI · LangChain · Qdrant · Gemini · Next.js 15 | Production RAG platform with hybrid BM25 + dense retrieval, RRF fusion, multi-tenant isolation, and async PDF ingestion |
 | [**CerviCare**](https://github.com/omprakash0224) | FastAPI · scikit-learn · XGBoost · LightGBM · SHAP | 13-model ML study for cervical cancer risk prediction; SMOTE + soft-voting ensemble + SHAP explainability |
 | [**CreatextAI**](https://github.com/omprakash0224) | Next.js 15 · Gemini · Clerk · Neon · Razorpay · Docker | AI SaaS platform with 23+ content templates, 2-tier credit system, subscription billing, and Drizzle ORM |
 | [**Backend Ledger**](https://github.com/omprakash0224) | Node.js · Express · MongoDB · JWT · Swagger | Double-entry ledger API with ACID transactions, fraud detection middleware, and sub-200ms response times |
