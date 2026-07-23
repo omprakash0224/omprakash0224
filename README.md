@@ -8,7 +8,8 @@
   <a href="https://my-portfolio-dun-one-29.vercel.app/">Portfolio</a> &nbsp;|&nbsp;
   <a href="mailto:omprakashsamal75@gmail.com">Email</a> &nbsp;|&nbsp;
   <a href="https://linkedin.com/in/iamomprakashsamal">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/omprakash0224">GitHub</a>
+  <a href="https://github.com/omprakash0224">GitHub</a> &nbsp;|&nbsp;
+  <a href="https://medium.com/@omprakashsamal75">Medium</a>
 </p>
 
 ---
@@ -77,10 +78,10 @@ Computer Science undergraduate with hands-on experience building production-grad
 | Project | Tech | Description |
 |---|---|---|
 | [**PaperMind**](https://github.com/omprakash0224/PaperMind) | FastAPI · LangChain · Qdrant · Gemini · Next.js 15 | Production RAG platform with hybrid BM25 + dense retrieval, RRF fusion, multi-tenant isolation, and async PDF ingestion |
+| [**CodeGuardian**](https://github.com/omprakash0224/CodeGuardian_v2) | FastAPI · LangGraph · LangChain · Groq · ChromaDB · Semgrep/Bandit | 4-agent autonomous code review pipeline for GitHub PRs with concurrent security, quality, test coverage, and documentation analysis powered by RAG and static analysis integration |
 | [**CerviCare**](https://github.com/omprakash0224/CerviCare) | FastAPI · scikit-learn · XGBoost · LightGBM · SHAP | 13-model ML study for cervical cancer risk prediction; SMOTE + soft-voting ensemble + SHAP explainability |
 | [**Backend Ledger**](https://github.com/omprakash0224/Backend-Ledger) | Node.js · Express · MongoDB · JWT · Swagger | Double-entry ledger API with ACID transactions, fraud detection middleware, and sub-200ms response times |
 | [**CreatextAI**](https://github.com/omprakash0224/creatext-ai) | Next.js 15 · Gemini · Clerk · Neon · Razorpay · Docker | AI SaaS platform with 23+ content templates, 2-tier credit system, subscription billing, and Drizzle ORM |
-| [**Multi-Agent Finance AI**](https://github.com/omprakash0224/AI_agents) | CrewAI · LangChain · Gemini · SerperDevTool | 4-agent hierarchical pipeline for financial analysis covering research, market, risk, and report generation |
 | [**JobTailor**](https://github.com/omprakash0224/JobTailor) | Flask · SQLAlchemy · Gemini · PostgreSQL | AI-powered job application assistant for resume tailoring, cover letter generation, and interview preparation |
 
 ---
@@ -99,9 +100,10 @@ Computer Science undergraduate with hands-on experience building production-grad
 
 ### Highlights
 
-- **25+ public repositories** spanning full-stack, AI/ML, and backend engineering with live deployments on Vercel and Render
-- **250+ LeetCode problems** solved across arrays, dynamic programming, and graph algorithms
+- **15+ public repositories** spanning full-stack, AI/ML, and backend engineering with live deployments on Vercel and Render
+- **330+ LeetCode problems** solved across arrays, dynamic programming, and graph algorithms
 - **6 production-grade projects** delivered including a RAG platform, ML clinical decision tool, financial ledger API, and AI SaaS platform
+- **3 technical articles** on Medium covering system design, scaling, and architecture patterns
 
 ---
 
