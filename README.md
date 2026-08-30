@@ -20,7 +20,7 @@ Computer Science undergraduate with hands-on experience building production-grad
 
 - Currently building a **production RAG system** with hybrid dense + BM25 retrieval and RRF fusion
 - Working with **Multi-Agent Orchestration** using CrewAI, LangChain, and hierarchical agent pipelines
-- Focus areas: GenAI pipelines, FastAPI backends, Next.js full-stack applications
+- Focus areas: GenAI pipelines, Scalable backends, full-stack applications
 - Based in **Gurugram, Haryana**
 
 ---
@@ -101,7 +101,7 @@ Computer Science undergraduate with hands-on experience building production-grad
 ### Highlights
 
 - **15+ public repositories** spanning full-stack, AI/ML, and backend engineering with live deployments on Vercel and Render
-- **330+ LeetCode problems** solved across arrays, dynamic programming, and graph algorithms
+- **380+ LeetCode problems** solved across arrays, dynamic programming, and graph algorithms
 - **6 production-grade projects** delivered including a RAG platform, ML clinical decision tool, financial ledger API, and AI SaaS platform
 - **3 technical articles** on Medium covering system design, scaling, and architecture patterns
 
