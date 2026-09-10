@@ -18,7 +18,7 @@
 
 Computer Science undergraduate with hands-on experience building production-grade full-stack, AI/ML, and backend systems. Proficient in Python, TypeScript, FastAPI, Next.js, and the GenAI ecosystem including RAG pipelines, multi-agent orchestration, and LLM integration. Seeking an internship or entry-level role in AI/ML Engineering, Backend, or Full-Stack Development.
 
-- Currently building a **production RAG system** with hybrid dense + BM25 retrieval and RRF fusion
+- Currently building a **AI Finance Controller** to help finance teams with reconciliation
 - Working with **Multi-Agent Orchestration** using CrewAI, LangChain, and hierarchical agent pipelines
 - Focus areas: GenAI pipelines, Scalable backends, full-stack applications
 - Based in **Gurugram, Haryana**
