@@ -79,10 +79,10 @@ Computer Science undergraduate with hands-on experience building production-grad
 |---|---|---|
 | [**PaperMind**](https://github.com/omprakash0224/PaperMind) | FastAPI · LangChain · Qdrant · Gemini · Next.js 15 | Production RAG platform with hybrid BM25 + dense retrieval, RRF fusion, multi-tenant isolation, and async PDF ingestion |
 | [**DataSpeak**](https://github.com/omprakash0224/text-to-sql) | FastAPI · LangGraph · Groq · React · PostgreSQL | Conversational Text-to-SQL platform with read-only AST guardrails, self-correction, and automated visual analytics |
+| [**Backend Ledger**](https://github.com/omprakash0224/Backend-Ledger) | Node.js · Express · MongoDB · JWT · Swagger | Double-entry ledger API with ACID transactions, fraud detection middleware, and sub-200ms response times |
+| [**CerviCare**](https://github.com/omprakash0224/CerviCare) | FastAPI · scikit-learn · XGBoost · LightGBM · SHAP | 13-model ML study for cervical cancer risk prediction; SMOTE + soft-voting ensemble + SHAP explainability |
 | [**CreatextAI**](https://github.com/omprakash0224/creatext-ai) | Next.js 15 · Gemini · Clerk · Neon · Razorpay · Docker | AI SaaS platform with 23+ content templates, 2-tier credit system, subscription billing, and Drizzle ORM |
 | [**CodeGuardian**](https://github.com/omprakash0224/CodeGuardian_v2) | FastAPI · LangGraph · LangChain · Groq · ChromaDB · Semgrep/Bandit | 4-agent autonomous code review pipeline for GitHub PRs with concurrent security, quality, test coverage, and documentation analysis powered by RAG and static analysis integration |
-| [**CerviCare**](https://github.com/omprakash0224/CerviCare) | FastAPI · scikit-learn · XGBoost · LightGBM · SHAP | 13-model ML study for cervical cancer risk prediction; SMOTE + soft-voting ensemble + SHAP explainability |
-| [**Backend Ledger**](https://github.com/omprakash0224/Backend-Ledger) | Node.js · Express · MongoDB · JWT · Swagger | Double-entry ledger API with ACID transactions, fraud detection middleware, and sub-200ms response times |
 
 ---
 
